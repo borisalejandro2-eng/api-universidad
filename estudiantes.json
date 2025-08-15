@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "direccion": "Av. Siempre Viva 123",
+    "fechaNacimiento": "2000-05-10",
+    "semestre": 3,
+    "foto": "juan.jpg",
+    "materias": [
+      "Matemáticas",
+      "Física"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "María",
+    "apellido": "Gómez",
+    "direccion": "Calle Falsa 456",
+    "fechaNacimiento": "1999-08-22",
+    "semestre": 5,
+    "foto": "maria.jpg",
+    "materias": [
+      "Química",
+      "Biología"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos",
+    "apellido": "Ramírez",
+    "direccion": "Calle Sol 789",
+    "fechaNacimiento": "2001-03-15",
+    "semestre": 2,
+    "foto": "carlos.jpg",
+    "materias": [
+      "Historia",
+      "Inglés"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Ana",
+    "apellido": "López",
+    "direccion": "Av. Central 123",
+    "fechaNacimiento": "2002-07-20",
+    "semestre": 1,
+    "foto": "ana.jpg",
+    "materias": [
+      "Matemáticas",
+      "Historia"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Ana",
+    "apellido": "López",
+    "direccion": "Av. Central 123",
+    "fechaNacimiento": "2002-07-20",
+    "semestre": 1,
+    "foto": "ana.jpg",
+    "materias": [
+      "Matemáticas",
+      "Historia"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Willian",
+    "apellido": "Martínez",
+    "direccion": "Calle Luna 456",
+    "fechaNacimiento": "2001-11-10",
+    "semestre": 2,
+    "foto": "luis.jpg",
+    "materias": [
+      "Física",
+      "Química"
+    ]
+  }
+]
